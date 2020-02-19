@@ -15,8 +15,8 @@ import androidx.ui.material.*
 import androidx.ui.material.surface.Surface
 import androidx.ui.text.TextStyle
 import androidx.ui.unit.*
-import com.example.bottomsheet.elements.MyBottomDrawerLayout
-import com.example.bottomsheet.model.*
+import com.example.bottomsheet.components.MyBottomDrawerLayout
+import com.example.bottomsheet.viewmodel.*
 
 
 class MainActivity : AppCompatActivity() {

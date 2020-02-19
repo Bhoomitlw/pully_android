@@ -1,4 +1,4 @@
-package com.example.bottomsheet.data
+package com.example.bottomsheet.repository
 
 import com.example.bottomsheet.R
 

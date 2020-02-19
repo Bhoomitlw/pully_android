@@ -1,11 +1,9 @@
-package com.example.bottomsheet.elements
+package com.example.bottomsheet.components
 
 import androidx.animation.AnimationBuilder
 import androidx.animation.AnimationEndReason
 import androidx.animation.PhysicsBuilder
-import androidx.compose.Composable
-import androidx.compose.onCommit
-import androidx.compose.remember
+import androidx.compose.*
 import androidx.ui.core.*
 import androidx.ui.foundation.ValueHolder
 import androidx.ui.foundation.animation.AnchorsFlingConfig

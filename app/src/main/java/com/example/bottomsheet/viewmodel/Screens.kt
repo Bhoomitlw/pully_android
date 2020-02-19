@@ -1,4 +1,4 @@
-package com.example.bottomsheet.model
+package com.example.bottomsheet.viewmodel
 
 import androidx.compose.Model
 
