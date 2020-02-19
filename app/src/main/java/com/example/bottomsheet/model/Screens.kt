@@ -1,4 +1,4 @@
-package com.example.bottomsheet.viewmodel
+package com.example.bottomsheet.model
 
 import androidx.compose.Model
 
@@ -8,9 +8,9 @@ sealed class Screens {
 }
 @Model
 object Status {
-    var currentScreen: Screens =
-        Screens.Home
+    var currentScreen: Screens = Screens.Home
 }
+
 fun navigateTo(destination: Screens) {
     Status.currentScreen = destination
 }

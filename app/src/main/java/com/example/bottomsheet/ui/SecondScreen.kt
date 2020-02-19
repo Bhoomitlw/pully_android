@@ -18,12 +18,12 @@ import androidx.ui.material.MaterialTheme
 import androidx.ui.material.TopAppBar
 import androidx.ui.text.TextStyle
 import androidx.ui.unit.dp
-import com.example.bottomsheet.viewmodel.ChooseColor
-import com.example.bottomsheet.viewmodel.MyColor
-import com.example.bottomsheet.viewmodel.Screens
+import com.example.bottomsheet.model.ChooseColor
+import com.example.bottomsheet.model.Screens
 import com.example.bottomsheet.repository.imageList
 import com.example.bottomsheet.repository.titleList
-import com.example.bottomsheet.viewmodel.navigateTo
+import com.example.bottomsheet.model.navigateTo
+import com.example.bottomsheet.repository.MyColor
 
 @Composable
 fun SecondScreen() {
