@@ -21,5 +21,6 @@ class MyColor{
         val darkgray : Color = Color(0xFF5A5A59)
         val yellowLight : Color = Color(0xFFFDFEEE)
         val pinkLight : Color = Color(0xFFFEEEF5 )
+        val white : Color = Color(0xFFF)
     }
 }
